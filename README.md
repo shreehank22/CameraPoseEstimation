@@ -1,8 +1,3 @@
-Sure! Here's the full `README.md` content ready for **copy-pasting** directly into your GitHub repo:
-
----
-
-```markdown
 # 📸 Camera Pose Estimation
 
 This repository contains a simple and effective pipeline for **estimating camera pose** from a 2D image using known 3D-2D point correspondences. The solution is implemented in Python with OpenCV and NumPy, and is ideal for educational, robotics, and computer vision applications.
