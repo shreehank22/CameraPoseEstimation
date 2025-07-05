@@ -1,10 +1,10 @@
-# 📸 Camera Pose Estimation
+#  Camera Pose Estimation
 
 This repository contains a simple and effective pipeline for **estimating camera pose** from a 2D image using known 3D-2D point correspondences. The solution is implemented in Python with OpenCV and NumPy, and is ideal for educational, robotics, and computer vision applications.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 
@@ -19,7 +19,7 @@ CameraPoseEstimation/
 
 ---
 
-## 🧠 What It Does
+## What It Does
 
 Given:
 - A **2D image** of a scene (`Image.jpg`)
@@ -33,7 +33,7 @@ The script:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -75,13 +75,13 @@ This will:
 
 ---
 
-## 📈 Output Example
+##  Output Example
 
 The script will display the image with projected 3D points (after pose estimation), allowing visual verification of pose accuracy.
 
 ---
 
-## 🧪 Pose Estimation Details
+##  Pose Estimation Details
 
 Uses:
 
@@ -92,7 +92,7 @@ This approach assumes a pinhole camera model and relies on accurate 2D–3D corr
 
 ---
 
-## ✍️ Author
+##  Author
 
 **Shreehan Kate**
 
