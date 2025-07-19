@@ -14,6 +14,7 @@ CameraPoseEstimation/
 ├── Image.jpg                 # Input image used for pose estimation
 ├── intrinsics.npy            # Camera intrinsics matrix
 ├── world\_coordinates.npy     # 3D world coordinates of feature points
+├── Task January 2024          # Project Report
 
 ````
 
